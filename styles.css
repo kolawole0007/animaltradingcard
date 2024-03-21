@@ -1,0 +1,37 @@
+body{
+
+    margin: 0;
+    background-color: bisque;
+
+
+   } 
+
+.card{
+    width: 400px;
+    margin: 0 auto;
+border: 2px solid;
+ padding-left: 3%;padding: 3%;
+ background-color: white;
+
+}
+.imgctn img{
+    width: 100%;
+    text-align: center;
+    background-color: white;
+
+}
+.imgctn{
+    width: 100%;
+    height: auto;
+    margin-top: ;
+}
+.attr{
+    margin-top: 10px;
+
+}
+.fact{
+margin: 19%;
+background-color: whi;
+}
+
+
